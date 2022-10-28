@@ -1,4 +1,6 @@
 firstline
 secondline
 3th line
+
 new non conflict part
+change from branch
