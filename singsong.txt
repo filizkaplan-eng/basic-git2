@@ -4,9 +4,7 @@ secondline
 
 new non conflict part
 change from branch
-updating for new branch
-<<<<<<< HEAD
+updating for new branc
 updating for main
-=======
 second update for new branch
->>>>>>> newBranch
+update for second branch
